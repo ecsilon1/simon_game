@@ -1,1 +1,1 @@
-# simon_game
+The infamous Simon Says game made with Jquery and a lot of patience. My main issue is that I still dont know how show the whole sequnce of buttons, and not just the last one. I will come back later to this.
